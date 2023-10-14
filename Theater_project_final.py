@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 
 total_seat=40
 nor_seat=20
@@ -86,10 +80,3 @@ Normal Seat Price------>400 rs.""")
         if nextt=="no":  
             break
     
-
-
-# In[ ]:
-
-
-
-
