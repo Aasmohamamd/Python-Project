@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[94]:
-
-
-
 books={"Physics":10,"Chemistry":10,"Maths":10}
 br={}
 
